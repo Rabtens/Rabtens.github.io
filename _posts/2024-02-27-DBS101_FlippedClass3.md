@@ -4,7 +4,7 @@ categories: [DBS101, Flipped_Class3]
 tags: [DBS101]
 ---
 
-### Topic : NUll values and Set operations in SQL.
+### Topic : NUll values and Set Operations in SQL.
 
 # Lesson learned from flipped class
 
