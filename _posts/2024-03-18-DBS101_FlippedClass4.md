@@ -61,7 +61,7 @@ Now here's an example of how the table will look like when PIVOT is used.
 
 In conclusion, exploring advanced SQL techniques has been a thrilling journey. I've learned a lot about manipulating data and gained valuable skills for analyzing complex datasets. Looking ahead, I'm excited to continue exploring SQL's vast potential for uncovering insights and solving real-world problems.
 
-### What I did in flipped class
+### What I did in flipped class.
 
 
 At first, we were instructed to read and study a topic provided by our tutor, along with accompanying notes uploaded on the VLE for flipped class instruction. Subsequently, during the class, assuming that we had read and studied the assigned topic, our tutor divided us into groups to discuss and share our thoughts.
