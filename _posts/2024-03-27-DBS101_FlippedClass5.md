@@ -104,7 +104,7 @@ So to make the above table into 4NF, we can decompose it into two tables:
 
 ![alt text](../4nf2.png)
 
-### 6.Fifth Normal Form
+### 6.Fifth Normal Form.
 
 The Fifth Normal Form (5NF) is a level of database normalization that aims to further reduce redundancy and dependency in a relational database schema. It deals with the concept of join dependencies, which occur when a table can be decomposed into multiple tables in such a way that joining them back together yields the original table.
 
