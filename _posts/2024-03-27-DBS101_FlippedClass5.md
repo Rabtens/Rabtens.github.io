@@ -4,7 +4,7 @@ categories: [DBS101, Flipped_Class5]
 tags: [DBS101]
 ---
 
-### Topic : Relational Database Design
+### Topic : Relational Database Design.
 
 ### Lesson learned from flipped class.
 
@@ -133,10 +133,10 @@ So to make the above table into 5NF, we can decompose it into three relations P1
 To conclude there are different levels of organization called normal forms, like 1NF, 2NF, 3NF, BCNF, 4NF, and 5NF. Each form tackles specific problems, from making sure data is single and straightforward in 1NF to handling complex connections between tables in 5NF. By following these rules, databases can store and find data more efficiently. This helps ensure that information is accurate and easy to access, making the database work better overall.
 
 
-### What I did in flipped class.
+### What I did in flipped class
 
 Before our flipped class session started, our tutor briefly taught us about the topics of normal forms, and notes were provided via Google Chat for reference during the flipped class. Then, we were divided into 6 groups, each with a different topic on types of normal forms. In our groups, we discussed the assigned topic for around 30 minutes. After the allotted time, we were reorganized into different groups, with each member assigned a different topic to share their knowledge. Following the discussions, our tutor asked questions to members to assess their understanding of the concepts discussed in the second group. After several question-and-answer sessions, our class concluded.
 
-### How can flipped class be improved.
+### How can flipped class be improved
 
 I think it would help us learn better if the madam could start the flipped class session with some basics on the topic, like it was done in Flipped Class session 5.
