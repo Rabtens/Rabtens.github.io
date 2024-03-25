@@ -26,7 +26,6 @@ Data is stored in key/value pairs. It is designed in such a way to handle lots o
 
 For example, a key-value pair may contain a key like “Name” associated with a value like “Dorji”.
 
-![alt text](image.png)
 
 It is one of the most basic NoSQL database example. This kind of NoSQL database is used as a collection, dictionaries, associative arrays, etc. Key value stores help the developer to store schema-less data. 
 
@@ -42,7 +41,7 @@ It is one of the most basic NoSQL database example. This kind of NoSQL database 
 
 Column-oriented databases work on columns. Every column is treated separately. Values of single column databases are stored contiguously.
 
-![alt text](image-1.png)
+
 
 
 
