@@ -20,7 +20,7 @@ NoSQL Databases are mainly categorized into six types: Key-value pair, Column-or
 
 ![alt text](../types.png) 
 
-### 1. Key Valued Pair Based
+### 1. Key Valued Pair Based.
 
 Data is stored in key/value pairs. It is designed in such a way to handle lots of data and heavy load. Key-value pair storage databases store data as a hash table where each key is unique, and the value can be a JSON, BLOB(Binary Large Objects), string, etc.
 
@@ -29,7 +29,7 @@ For example, a key-value pair may contain a key like “Name” associated with 
 
 It is one of the most basic NoSQL database example. This kind of NoSQL database is used as a collection, dictionaries, associative arrays, etc. Key value stores help the developer to store schema-less data. 
 
-### Applications
+### Applications.
 
 1. Quick Data Storage: Imagine having a bunch of keys (like in a real-life keychain) and each key is connected to a small piece of information. That's how key-value pair databases work. They store data in a simple way: we have a key and its corresponding value. This makes it really easy to store and find information quickly.
 
