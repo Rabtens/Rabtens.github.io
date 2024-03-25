@@ -135,7 +135,7 @@ To conclude there are different levels of organization called normal forms, like
 
 ### What I did in flipped class.
 
-Before our flipped class session started, our tutor briefly taught us about the topics of normal forms, and notes were provided via Google Chat for reference during the flipped class. Then, we were divided into 6 groups, each with a different topic on types of normal forms. In our groups, we discussed the assigned topic for around 30 minutes. After the allotted time, we were reorganized into different groups, with each member assigned a different topic to share their knowledge. Following the discussions, our tutor asked questions to members to assess their understanding of the concepts discussed in the second group. After several question-and-answer sessions, our class concluded.
+Before our flipped class session started, our tutor briefly taught us about the topics of normal forms, and notes were provided via Google Chat for reference during the flipped class. Then, we were divided into 6 groups, each with a different topic on types of normal forms. In our groups, we discussed the assigned topic for around 30 minutes. Following the discussions, our tutor directed us to do presentation on each topic were the presenter can be anyone from the group provided the time of 5 minutes. After the completion of presentation by all group, our class concluded.
 
 ### How can flipped class be Improved
 
