@@ -10,6 +10,8 @@ tags: [DBS101]
 #### Introduction:
 Databases are like super organized libraries for computer information. They help store a lot of data and find it super fast when needed. In this guide, we'll take a look at some important things about databases, like how they work and why they are essential.
 
+![alt text](../Top-Down-Approach-1.webp)
+
 #### Exploring How Databases Store Stuff:
 Let's start by learning how databases store information. We'll talk about things like how computers save data in little chunks called blocks, how they make sure data stays safe with backups, and how they keep track of where everything is.
 
