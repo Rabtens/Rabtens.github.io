@@ -25,7 +25,7 @@ Databases have some neat tricks to find stuff super quickly. They use special ta
 #### Making Sure Everything Stays Safe:
 Keeping data safe is really important. Databases use special tools to make sure everything stays safe and accurate, even if something goes wrong. They keep a record of changes (like a diary), so they can go back and fix things if needed. They also make sure only the right people can see and change the data, so it stays private and secure.
 
-#### Conclusion:
+#### Conclusion.:
 So, that's the basics of databases! I learned how they store and organize information, how they find things quickly, and how they keep everything safe. By being honest and making smart choices, we can use databases to make our lives easier and our information safer.
 
 
