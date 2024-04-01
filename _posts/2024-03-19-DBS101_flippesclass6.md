@@ -6,7 +6,7 @@ tags: [DBS101]
 
 ### Topic : Advantages, Disadvantages and Applications of types of Nonrelational Databases.
 
-### Lesson learned from flipped class.
+### Lesson learned from practical assignment.
 
 In today's world where we use a lot of data, we need ways to store it efficiently and in a way that can grow as our needs grow. That's where non-relational databases, also called NoSQL databases, come in. Unlike the traditional relational databases that organize data into neat little tables, these newer databases are more flexible. They can handle all sorts of different types of data and can handle a lot of it at once. Let's talk about why these databases are great, what  some of the downsides are, and where we use them along with its definition and types based on my understanding.
 
