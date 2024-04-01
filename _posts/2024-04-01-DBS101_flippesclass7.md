@@ -10,13 +10,10 @@ tags: [DBS101]
 #### Introduction:
 Databases are like super organized libraries for computer information. They help store a lot of data and find it super fast when needed. In this guide, we'll take a look at some important things about databases, like how they work and why they are essential.
 
-#### Understanding Being Honest:
-Before we start talking about databases, it's crucial to remember to be honest in everything we do. This means not cheating or copying someone else's work, which is super important in school and beyond.
-
 #### Exploring How Databases Store Stuff:
 Let's start by learning how databases store information. We'll talk about things like how computers save data in little chunks called blocks, how they make sure data stays safe with backups, and how they keep track of where everything is.
 
-#### Figuring Out What We Need:
+#### Figuring Out What is Needed:
 When we want to make a new database, we first need to think about what we want it to do. This means figuring out what information we want to keep, like names or numbers, and how they're connected. We also think about how people will use the database, like adding new information or finding old stuff.
 
 #### Making the Database Blueprint:
