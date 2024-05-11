@@ -28,3 +28,6 @@ This way of learning changed how we usually do things when it comes to learning.
 
 Overall the flipped class for me was interesting and fun but there are some sides were it can be improved like providing more notes on the given topic and monitoring the work of or the progress of the work should be done strictly for efficient learning progress.
 
+
+
+

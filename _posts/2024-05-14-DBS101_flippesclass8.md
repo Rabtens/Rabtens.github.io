@@ -44,11 +44,11 @@ If the user requests such thrown-out blocks, the buffer manager reads the reques
 
 For serving the database system in the best possible way, the buffer manager uses the for:
 
-#### 1. Buffer Replacement Strategy
+#### 1. Buffer Replacement Strategy.
 
 If no space is left in the buffer, it is required to remove an existing block from the buffer before allocating the new one. The various operating system uses the LRU (least recently used) scheme. In LRU, the block that was least recently used is removed from the buffer and written back to the disk. Such type of replacement strategy is known as Buffer Replacement Strategy.
 
-#### 2. Pinned Blocks
+#### 2. Pinned Blocks.
 
 If the user wants to recover any database system from the crashes, it is essential to restrict the time when a block is written back to the disk. In fact, most recovery systems do not allow the blocks to be written on the disk if the block updation being in progress. Such types of blocks that are not allowed to be written on the disk are known as pinned blocks. Luckily, many operating systems do not support the pinned blocks.
 
