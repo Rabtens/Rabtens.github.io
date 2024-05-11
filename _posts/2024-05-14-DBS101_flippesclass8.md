@@ -52,9 +52,9 @@ If no space is left in the buffer, it is required to remove an existing block fr
 
 If the user wants to recover any database system from the crashes, it is essential to restrict the time when a block is written back to the disk. In fact, most recovery systems do not allow the blocks to be written on the disk if the block updation being in progress. Such types of blocks that are not allowed to be written on the disk are known as pinned blocks. Luckily, many operating systems do not support the pinned blocks.
 
-#### 3. Forced Output of Blocks
+#### 3. Forced Output of Blocks.
 
-In some cases, it becomes necessary to write the block back to the disk even though the space occupied by the block in the buffer is not required. When such type of write is required, it is known as the forced output of a block. It is because sometimes the data stored on the buffer may get lost in some system crashes, but the data stored on the disk usually does not get affected due to any disk crash.
+In some cases, it becomes necessary to write the block back to the disk even though the space occupied by the block in the buffer is not required. When such type of write is required, it is known as the forced output of a block. It is because sometimes the data stored on the buffer may get lost in some system crashes,but the data stored on the disk usually does not get affected due to any disk crash.
 
 ![alt text](../buffer-tree.png)
 
