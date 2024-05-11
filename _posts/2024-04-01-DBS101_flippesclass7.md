@@ -1,5 +1,5 @@
 ---
-Title: DBS101 Flipped Class 6
+Title: DBS101 Flipped Class 7
 categories: [DBS101, Flipped_Class6]
 tags: [DBS101]
 ---
@@ -29,7 +29,6 @@ Keeping data safe is really important. Databases use special tools to make sure 
 
 #### Conclusion.:
 So, that's the basics of databases! I learned how they store and organize information, how they find things quickly, and how they keep everything safe. By being honest and making smart choices, we can use databases to make our lives easier and our information safer.
-
 
 
 
