@@ -4,7 +4,7 @@ categories: [DBS101, Flipped_Class8]
 tags: [DBS101]
 ---
 
-### Topic : Indexing.
+### Topic : Indexing
 
 Efficient management of spatial and temporal data is paramount in numerous fields, from geographic information systems to real-time analytics. To address the complexities of multidimensional data, specialized indexing techniques such as Bitmap Indices and Buffer Trees have been developed. Bitmap Indices utilize bitmap encoding to expedite query processing, while Buffer Trees offer a tailored structure for spatial data organization. This journal will talk about the methodologies, examining their principles, strengths, and limitations, with the aim of optimizing data retrieval efficiency in spatial and temporal contexts based on my understnading for each topics that has been discussed in the class.
 
@@ -58,7 +58,7 @@ In some cases, it becomes necessary to write the block back to the disk even tho
 
 ![alt text](../buffer-tree.png)
 
-### Conclusion.
+### Conclusion
 
 In wrapping up, learning about indexing techniques like Bitmap Indices and Buffer Trees has shown me how they make finding data easier and faster. These methods use special ways to organize information, which is super helpful, especially for things like maps or tracking time-based events. Understanding these tools helps us see how to handle data smarter and more efficiently as we keep moving forward in the world of information.
 
