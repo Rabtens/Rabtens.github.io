@@ -4,11 +4,11 @@ categories: [DBS101, Flipped_Class12]
 tags: [DBS101]
 ---
 
-### Topic : Recovery System
+### Topic : Recovery System.
 
 In database management system, the importance of recovery algorithms cannot be overstated. These algorithms serve as the backbone of data integrity, ensuring that even in the face of system failures or crashes, databases can be restored to a consistent state without loss of critical information. In this journal, I will share what I have learned after learning the realm of recovery algorithms, exploring traditional methods like ARIES, alongside newer researched algorithms, and the crucial role of database logging.
 
-### Recovery Algorithms
+### Recovery Algorithms.
 
 Recovery algorithms are techniques to ensure database consistency, transaction atomicity, and durability despite failures.
 
