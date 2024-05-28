@@ -103,7 +103,7 @@ Database logs can be used for performance monitoring and optimization purposes, 
 
 ![alt text](../write-path-transactional-db.png)
 
-### Conclusion
+### Conclusion.
 
 In conclusion, the realm of recovery algorithms stands as a cornerstone in maintaining the integrity and reliability of database systems, ensuring that crucial data remains consistent and accessible even in the face of system failures or crashes. Through mechanisms like ARIES and traditional logging practices, databases are equipped to handle failures gracefully, employing strategies such as Write-Ahead Logging (WAL) and periodic checkpoints to facilitate efficient recovery processes. Understanding the principles of database logging, recovery algorithms, and concurrency control mechanisms is paramount for database administrators and developers alike, empowering them to build robust and resilient systems capable of withstanding unforeseen challenges and disruptions.
 
