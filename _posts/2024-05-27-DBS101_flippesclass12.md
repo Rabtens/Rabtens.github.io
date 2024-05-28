@@ -84,7 +84,7 @@ The fundamental concept behind ARIES is its use of a Write-Ahead Logging (WAL) p
 
 ARIES is a robust and efficient algorithm for database recovery and concurrency control, widely used in commercial database management systems due to its effectiveness in handling system crashes and ensuring database consistency.
 
-### DB Logging
+### DB Logging.
 Database logging, a fundamental component of database management systems (DBMS), involves recording changes made to the database in a log file. This log file serves several important purposes, including recovery from system failures, maintaining data integrity, and supporting various database functionalities. Here's a detailed explanation of database logging:
 
 ### Purpose of Logging:
