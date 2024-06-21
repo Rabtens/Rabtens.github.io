@@ -99,8 +99,6 @@ That brought confidence and an interesting feeling to do the work, especially si
 
 So, the tutor arranged a Zoom meeting with the backend members. He sent us three repositories in the group chat and explained everything very clearly so that I understood all of it. Not only that, I also understood the workflow of these three repositories connected to each other ( websocketserver, next.js chatroom, restapi server, ), which really helped me to do it by myself.
 
-![alt text](image-1.png)
-
 After the Zoom meeting, I referred to the WebSocket server code and understood it. I was able to publish and subscribe to the channel, messages, and bids. The system could identify which were messages and which were bids. The next challenge was designing the frontend.
 Kuenzang Rabten and I discussed how to design and connect the backend and frontend code. Since the backend was ready, we focused on the design. Rabten used Shadcn to implement buttons, avatars, an input bar for typing messages, and a bidding amount feature, as well as functionality for joining the room using the room ID (all for the WebSocket frontend). 
 
