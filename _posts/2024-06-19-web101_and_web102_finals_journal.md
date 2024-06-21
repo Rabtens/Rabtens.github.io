@@ -110,6 +110,15 @@ Lastly, everything was good and great on my part, but sir mentioned a problem: w
 
 Integrating the interfaces for different parts of RabsAuction’s application helped me to consolidate important lessons about structuring and implementing coherent and effective frontends with React and Next. js. By the usage of reusables such as Button and Card classes, I was able to create and sustain the homogeneity of the design across the pages – Home, LoginPage, SignUpPage—, and the reduced code duplication. Using state hooks like useState for handling state locally was possible to control the form inputs on the go and at the same time, provide easy to comprehend feedback in case of errors. Substituting calls for common operations such as login and registration illustrated the critical responsibility of API errors and responses when resulting in unreliable validation and, in turn, eroding user confidence. Responsive design fundamentals and client-side routing (Next.Link) maintained consistent and compatible device-agnostic user experience and made prompt improvements in the frontend web application development.
 
+During the final CAP project, I gained valuable insights and skills, including:
+    - Enhancing the connection between the frontend and backend of applications.
+    - Implementing navigation between pages, such as redirecting from one page to another.
+    - Utilizing Shadcn components for efficient development.
+    - Adjusting the port settings on the frontend.
+    - Troubleshooting errors that arise during the integration process between the frontend and backend.
+    - Incorporating Artificial Intelligence (AI) libraries into projects.
+    - Learning techniques to create aesthetically pleasing frontend.
+
 ### Tashi Penjor's Journal
 
 We focused on refining our database schema and made significant progress on the endpoints for uploading products. After thoroughly testing these endpoints, we handed them over to the frontend team. Additionally, we created endpoints for the auction room and passed them along to the frontend group. Tenzin Namgay and I discussed the websocket implementation with Douglas via Google Zoom for the server side. Since there was an issue with my auction endpoints assigning room IDs before creation, I re-edited and tested them before handing them to the frontend team. Tenzin Namgay, the other backend members, and I collaborated to resolve websocket issues highlighted during the Zoom meeting. We also worked together to connect the backend and frontend using the repository provided by Sir. Overall, our teamwork greatly improved the integration between the backend and frontend and still in progress.
